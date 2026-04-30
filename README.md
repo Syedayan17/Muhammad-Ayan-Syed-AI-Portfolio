@@ -28,5 +28,5 @@ Simulates basic robot movement and navigation logic.
 - NumPy
 
 ## 📫 Contact
-Email: syed@email.com  
-GitHub: https://github.com/Syed-Ahmed-AI-Portfolio
+Email: ayansmayan@gmail.com
+GitHub: 
